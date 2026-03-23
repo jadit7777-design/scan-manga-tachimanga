@@ -1,1 +1,1 @@
-# scan-manga.com
+# scan-manga-tachimanga
